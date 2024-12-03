@@ -1,2 +1,3 @@
-# 0-web-book-market
-Project files for DJU-WEB (Book Market JSP website).
+# 14-jdbc
+
+Project files for DJU-WEB (14주차 실습).
